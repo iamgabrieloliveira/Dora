@@ -1,0 +1,7 @@
+[package]
+name = "tcp-server-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lightning-path = "1.0.2"
