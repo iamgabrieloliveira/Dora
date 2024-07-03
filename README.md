@@ -19,7 +19,7 @@ fn main() {
 fn home_handler(request: Request) -> Response {
     Response::ok(
       String::from("Hello World")
-    );
+    )
 }
 
 fn view_user_handler(request: Request) -> Response {
